@@ -1,0 +1,9 @@
+Please complete the following Tasks:
+1) Complete a Static Website using Basic HTML and CSS.
+2) Convert the Static Website into Responsive using Bootstap.
+3) Add the necessary forms needed for the website.
+4) Use JavaScript on the required places in the same website.
+5) Start making modules and component from Angular (Using Plural Site)
+6) Implement Bootstrap in the Angular modules.
+7) Use Routers to link all of the pages.
+8) Review and Complete the Projects.
